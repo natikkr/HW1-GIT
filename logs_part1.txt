@@ -1,0 +1,52 @@
+cb6e20d (HEAD -> develop, origin/feature4, origin/develop, feature4) HEAD@{0}: checkout: moving from featur
+e1 to develop
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{1}: checkout: m
+oving from feature2 to feature1
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{2}: checkout: m
+oving from develop to feature2
+cb6e20d (HEAD -> develop, origin/feature4, origin/develop, feature4) HEAD@{3}: checkout: moving from featur
+e3 to develop
+a28bc12 (origin/feature3, feature3) HEAD@{4}: checkout: moving from master to feature3
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{5}: checkout: m
+oving from feature1 to master
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{6}: checkout: m
+oving from develop to feature1
+cb6e20d (HEAD -> develop, origin/feature4, origin/develop, feature4) HEAD@{7}: checkout: moving from featur
+e3 to develop
+a28bc12 (origin/feature3, feature3) HEAD@{8}: checkout: moving from develop to feature3
+cb6e20d (HEAD -> develop, origin/feature4, origin/develop, feature4) HEAD@{9}: merge feature4: Fast-forward
+a28bc12 (origin/feature3, feature3) HEAD@{10}: checkout: moving from feature4 to develop
+cb6e20d (HEAD -> develop, origin/feature4, origin/develop, feature4) HEAD@{11}: rebase (finish): returning
+to refs/heads/feature4
+cb6e20d (HEAD -> develop, origin/feature4, origin/develop, feature4) HEAD@{12}: rebase (pick): add images i
+ndex.html feature4
+5c349a2 HEAD@{13}: rebase (pick): add images feature4
+a28bc12 (origin/feature3, feature3) HEAD@{14}: rebase (start): checkout develop
+129e540 HEAD@{15}: checkout: moving from develop to feature4
+a28bc12 (origin/feature3, feature3) HEAD@{16}: merge feature3: Fast-forward
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{17}: checkout:
+moving from feature3 to develop
+a28bc12 (origin/feature3, feature3) HEAD@{18}: checkout: moving from develop to feature3
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{19}: checkout:
+moving from feature4 to develop
+129e540 HEAD@{20}: commit: add images index.html feature4
+fcab8a0 HEAD@{21}: commit: add images feature4
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{22}: checkout:
+moving from develop to feature4
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{23}: checkout:
+moving from feature3 to develop
+a28bc12 (origin/feature3, feature3) HEAD@{24}: commit: style feature3
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{25}: checkout:
+moving from develop to feature3
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{26}: checkout:
+moving from master to develop
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{27}: merge deve
+lop: Fast-forward
+aadbdbc HEAD@{28}: checkout: moving from feature2 to master
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{29}: merge deve
+lop: Fast-forward
+faf5663 HEAD@{30}: checkout: moving from feature1 to feature2
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feature1) HEAD@{31}: merge deve
+lop: Fast-forward
+71f2356 HEAD@{32}: checkout: moving from develop to feature1
+ccd1e88 (origin/master, origin/feature2, origin/feature1, master, feature2, feat:
