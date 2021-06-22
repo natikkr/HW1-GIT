@@ -1,0 +1,45 @@
+e5657c6 (HEAD -> develop, origin/develop) HEAD@{0}: reset: moving to HEAD
+e5657c6 (HEAD -> develop, origin/develop) HEAD@{1}: commit: readme changes
+37d62d2 HEAD@{2}: commit: del branch
+3c3d26c (origin/feature5) HEAD@{3}: checkout: moving from master to develop
+355fa90 (origin/master, master) HEAD@{4}: commit: logs_part2.txt
+3c3d26c (origin/feature5) HEAD@{5}: merge develop: Fast-forward
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{6}: checkout: moving from develop to master
+3c3d26c (origin/feature5) HEAD@{7}: merge feature5: Fast-forward
+6a980a6 HEAD@{8}: checkout: moving from feature5 to develop
+3c3d26c (origin/feature5) HEAD@{9}: rebase (finish): returning to refs/heads/feature5
+3c3d26c (origin/feature5) HEAD@{10}: rebase (pick): second commit
+d320ebb HEAD@{11}: rebase (reword): first commit
+77602e5 HEAD@{12}: rebase: fast-forward
+6a980a6 HEAD@{13}: rebase (start): checkout HEAD~2
+9a0c947 HEAD@{14}: commit: second commit
+77602e5 HEAD@{15}: commit: first commit
+6a980a6 HEAD@{16}: checkout: moving from develop to feature5
+6a980a6 HEAD@{17}: commit: logs-part.txt
+cb6e20d (origin/feature4) HEAD@{18}: checkout: moving from feature1 to develop
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{19}: checkout: moving from feature2 to feature1
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{20}: checkout: moving from develop to feature2
+cb6e20d (origin/feature4) HEAD@{21}: checkout: moving from feature3 to develop
+a28bc12 (origin/feature3) HEAD@{22}: checkout: moving from master to feature3
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{23}: checkout: moving from feature1 to master
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{24}: checkout: moving from develop to feature1
+cb6e20d (origin/feature4) HEAD@{25}: checkout: moving from feature3 to develop
+a28bc12 (origin/feature3) HEAD@{26}: checkout: moving from develop to feature3
+cb6e20d (origin/feature4) HEAD@{27}: merge feature4: Fast-forward
+a28bc12 (origin/feature3) HEAD@{28}: checkout: moving from feature4 to develop
+cb6e20d (origin/feature4) HEAD@{29}: rebase (finish): returning to refs/heads/feature4
+cb6e20d (origin/feature4) HEAD@{30}: rebase (pick): add images index.html feature4
+5c349a2 HEAD@{31}: rebase (pick): add images feature4
+a28bc12 (origin/feature3) HEAD@{32}: rebase (start): checkout develop
+129e540 HEAD@{33}: checkout: moving from develop to feature4
+a28bc12 (origin/feature3) HEAD@{34}: merge feature3: Fast-forward
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{35}: checkout: moving from feature3 to develop
+a28bc12 (origin/feature3) HEAD@{36}: checkout: moving from develop to feature3
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{37}: checkout: moving from feature4 to develop
+129e540 HEAD@{38}: commit: add images index.html feature4
+fcab8a0 HEAD@{39}: commit: add images feature4
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{40}: checkout: moving from develop to feature4
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{41}: checkout: moving from feature3 to develop
+a28bc12 (origin/feature3) HEAD@{42}: commit: style feature3
+ccd1e88 (origin/feature2, origin/feature1) HEAD@{43}: checkout: moving from develop to feature3
+:
